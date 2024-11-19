@@ -168,3 +168,4 @@ C:\Users\User\Desktop\backendStreaming\WebApiStreaming\WebApiStreaming\bin\Debug
 C:\Users\User\Desktop\backendStreaming\WebApiStreaming\WebApiStreaming\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\User\Desktop\backendStreaming\WebApiStreaming\WebApiStreaming\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\User\Desktop\backendStreaming\WebApiStreaming\WebApiStreaming\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\backendStreaming\WebApiStreaming\WebApiStreaming\obj\Debug\net8.0\WebApiStreaming.sourcelink.json
