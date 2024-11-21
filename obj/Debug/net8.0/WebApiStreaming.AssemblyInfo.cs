@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiStreaming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5c08446868d9d9de2e6ed58d90c5650ba2b6032")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ed07c38ec8278a7ea238277ad9bd65b8e03ac3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiStreaming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiStreaming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
